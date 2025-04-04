@@ -2,7 +2,7 @@ import Head from "next/head";
 import Image from "next/image";
 import { JetBrains_Mono } from "next/font/google";
 import styles from "@/styles/Home.module.css";
-import { projects_old } from "./projects";
+import { projects_old } from "../projects";
 
 const JetBrainsMono = JetBrains_Mono({
   variable: "--font-jet-brains-mono",
