@@ -9,38 +9,38 @@ export const projects = [
 export const projects_old = [
   {
     id: 0,
+    url: "https://github.com/matidiaz000/animeflv-clone-host",
+    description: "Microfrontend",
+    title: "AnimeFLV"
+  },
+  {
+    id: 1,
+    url: "https://github.com/matidiaz000/animeflv-clone-library",
+    description: "Library",
+    title: "AnimeFLV Library"
+  },
+  {
+    id: 2,
     url: "https://github.com/matidiaz000/clima",
     description: "React",
     title: "Clima"
   },
   {
-    id: 1,
+    id: 3,
     url: "https://github.com/matidiaz000/pokedex",
     description: "React",
     title: "Pokedex"
   },
   {
-    id: 2,
+    id: 4,
     url: "https://github.com/matidiaz000/cotizar",
     description: "Angular",
     title: "Cotizar"
   },
   {
-    id: 3,
+    id: 5,
     url: "https://github.com/matidiaz000/mercadolibre",
     description: "React",
     title: "Mercadolibre"
   },
-  {
-    id: 4,
-    url: "https://github.com/matidiaz000/auto-sprite",
-    description: "Library",
-    title: "Auto Sprite"
-  },
-  {
-    id: 5,
-    url: "https://github.com/matidiaz000/extended-build-manager",
-    description: "Library",
-    title: "Extended Build"
-  }
 ];
